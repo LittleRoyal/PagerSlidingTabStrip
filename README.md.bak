@@ -1,7 +1,7 @@
 # PagerSlidingTabStrip
 PagerSlidingTabStrip 是ViewPager的一个在不同页面导航时可交互的指示器，可以实现滑动导航栏的效果。新增的属性有选中字体颜色和大小的设置，是否显示左右分割线，可以为选项卡的标题设置不同的颜色等。
 主要属性：
-	<!-- 滑动条颜色 -->
+        <!-- 滑动条颜色 -->
         <attr name="pstIndicatorColor" format="color" />
         <!-- 底部分割线颜色 -->
         <attr name="pstUnderlineColor" format="color" />
@@ -32,9 +32,4 @@ PagerSlidingTabStrip 是ViewPager的一个在不同页面导航时可交互的�
         <attr name="pstColorArray" format="reference" />
         <!-- 是否有左右分割线-->
         <attr name="pstHasDivider" format="boolean" />
-        <!-- 指示器颜色是否跟随字体颜色-->
-        <attr name="pstSameColor" format="boolean" />
 
-动画1设置每个Tab选项卡的字体颜色不同；
-动画2设置选中的选项卡的字体与未选中的不同；
-动画3在动画1的基础上设置指示器的颜色跟随字体颜色。

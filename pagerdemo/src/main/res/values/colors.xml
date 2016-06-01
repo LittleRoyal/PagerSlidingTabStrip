@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- 标签颜色数组 -->
+    <color name="color1">#1dcba0</color>
+    <color name="color2">#ffaf15</color>
+    <color name="color3">#ff6e6e</color>
+    <color name="color4">#5eb44a</color>
+    <array name="colors_array">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+    </array>
+</resources>
