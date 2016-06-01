@@ -1,0 +1,2 @@
+# PagerSlidingTabStrip
+PagerSlidingTabStrip 是ViewPager的一个在不同页面导航时可交互的指示器，可以实现滑动导航栏的效果。新增的属性有选中字体颜色和大小的设置，是否显示左右分割线，可以为选项卡的标题设置不同的颜色等。
